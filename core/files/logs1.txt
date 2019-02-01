@@ -1,0 +1,70 @@
+
+03/11/2015 07:34:40,Login(Super Admin),Super Admin
+03/11/2015 07:41:22,Update(narveers.sw@esselshyam.net),Super Admin
+03/11/2015 07:46:39,Delete(Super Admin),Super Admin
+03/11/2015 07:57:07,Active(ajeet10lodhi@gmail.com),Super Admin
+03/11/2015 07:57:22,Deactive(ajeet10lodhi@gmail.com),Super Admin
+03/11/2015 08:26:32,Active(hello@gmail.com),Super Admin
+03/11/2015 08:26:41,Update(hello@gmail.com),Super Admin
+03/11/2015 08:26:49,deactive(hello@gmail.com),Super Admin
+03/11/2015 09:17:58,Login(Mona),Mona
+03/11/2015 09:44:51,Active(hello@gmail.com),Mona
+03/11/2015 09:44:53,Active(hello@gmail.com),Mona
+03/11/2015 09:44:56,deactive(hello@gmail.com),Mona
+03/11/2015 09:55:33,Add Title(bbvbv),Mona
+03/11/2015 09:56:21,Edit Title(ajeet),Mona
+03/11/2015 10:01:07,Delete Tilte(7),
+03/11/2015 10:01:14,Delete Tilte(6),
+03/11/2015 10:02:48,Add Title(ajeetlodhi),Mona
+03/11/2015 10:03:02,Edit Title(ajeetlodhi),Mona
+03/11/2015 10:03:10,Delete Tilte(),
+03/11/2015 10:04:18,Add Title(mona),Mona
+03/11/2015 10:22:09,TitleActive.fvdgfgfg.,Mona
+03/11/2015 10:22:23,TitleDeactive.fvdgfgfg.,Mona
+03/11/2015 10:23:08,TitleActive.fvdgfgfg.,byMona
+03/11/2015 10:27:50,TitleDeactive.fvdgfgfg.,Mona
+03/11/2015 10:27:59,Delete Tilte(fvdgfgfg),Mona
+03/11/2015 10:42:01,Upload image(2.jpg),Mona
+03/11/2015 10:45:42,Image. Active . (),Mona
+03/11/2015 10:45:51,Image. Deactive . (),Mona
+03/11/2015 10:47:26,Image. Active . (),Mona
+03/11/2015 11:24:47,Login(Ajeet Lodhi),Ajeet Lodhi
+03/11/2015 11:26:59,deactive(singh12.as@gmail.com),Ajeet Lodhi
+03/11/2015 11:27:05,Active(singh12.as@gmail.com),Ajeet Lodhi
+03/11/2015 11:27:59,Image. Deactive . (),Ajeet Lodhi
+03/11/2015 11:28:08,Image. Active . (),Ajeet Lodhi
+03/11/2015 11:31:27,Image. Deactive . (OTT SERVICES3.JPG),Ajeet Lodhi
+03/11/2015 11:31:36,Image. Active . (OTT SERVICES3.JPG),Ajeet Lodhi
+03/11/2015 11:34:31,Image. Deactive . (OTT SERVICES 3.JPG),Ajeet Lodhi
+03/11/2015 11:34:42,Image. Active . (OTT SERVICES 3.JPG),Ajeet Lodhi
+03/11/2015 11:42:08,Upload image(1.jpg),Ajeet Lodhi
+03/11/2015 11:42:18,Image. Active . (1.jpg),Ajeet Lodhi
+03/11/2015 11:42:28,Image. Deactive . (1.jpg),Ajeet Lodhi
+03/11/2015 11:45:19,Upload image(12.jpg),Ajeet Lodhi
+03/11/2015 11:45:31,Delete Image(12.jpg),Ajeet Lodhi
+03/11/2015 11:47:34,Upload image(1.jpg),Ajeet Lodhi
+03/11/2015 11:47:44,Delete Image(1.jpg),Ajeet Lodhi
+03/11/2015 11:49:42,Upload image(2.jpg),Ajeet Lodhi
+03/11/2015 11:49:57,Image. Active . (2.jpg),Ajeet Lodhi
+03/11/2015 11:50:06,Image. Deactive . (2.jpg),Ajeet Lodhi
+03/11/2015 11:50:34,Delete Image(2.jpg),Ajeet Lodhi
+03/11/2015 12:25:22,Login(),
+03/11/2015 12:26:08,Login(Super Admin),Super Admin
+03/11/2015 12:26:41,Insert footer(http://nvedia.com),Super Admin
+03/11/2015 12:30:54,footer.Deactive(http://nvedia.com),Super Admin
+03/11/2015 12:32:47,Edit footer(http://www.ajeetlodhi.com),Super Admin
+03/11/2015 12:36:07,Delete Footer(http://www.ajeetlodhi.com),Super Admin
+03/11/2015 12:43:04,Active(ajeet30lodhi@gmail.com),Super Admin
+03/11/2015 12:43:09,deactive(ajeet30lodhi@gmail.com),Super Admin
+03/11/2015 12:43:21,Update(ajeet30lodhi@gmail.com),Super Admin
+03/11/2015 12:44:24,Delete(ajeet30lodhi@gmail.com),Super Admin
+03/11/2015 12:56:46,Login(),
+03/11/2015 12:57:18,Login(Mona),Mona
+03/11/2015 12:57:37,Active(Ajj@gmail.com),Mona
+03/11/2015 12:57:41,deactive(Ajj@gmail.com),Mona
+03/11/2015 12:57:47,Delete(Ajj@gmail.com),Mona
+03/11/2015 13:06:54,Add Title(ajeetlodhi),Mona
+03/11/2015 13:07:02,TitleActive.ajeetlodhi.,Mona
+03/11/2015 13:07:09,TitleDeactive.ajeetlodhi.,Mona
+03/11/2015 13:07:24,Edit Title(ajeetlodhi),Mona
+03/11/2015 13:07:33,Delete Tilte(ajeetlodhi),Mona

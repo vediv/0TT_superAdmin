@@ -1,0 +1,151 @@
+03/11/2015 13:18:24,Login(Super Admin),Super Admin
+03/11/2015 13:20:48,Active(Ajj@gmail.com),Super Admin
+03/11/2015 13:20:54,deactive(Ajj@gmail.com),Super Admin
+03/11/2015 13:21:07,Update(Ajj@gmail.com),Super Admin
+03/11/2015 13:21:15,Delete(Ajj@gmail.com),Super Admin
+03/11/2015 13:24:05,Login(Ajeet Lodhi),Ajeet Lodhi
+03/11/2015 13:25:22,Login(Super Admin),By-Super Admin
+03/11/2015 13:26:22,Insert footer(http://www.yahoo.com),By-Super Admin
+03/11/2015 13:26:30,footer.Active(http://www.yahoo.com),By-Super Admin
+03/11/2015 13:26:36,footer.Deactive(http://www.yahoo.com),By-Super Admin
+03/11/2015 13:26:45,Edit footer(http://www.yahoo.com),By-Super Admin
+03/11/2015 13:26:52,Delete Footer(http://www.yahoo.com),By-Super Admin
+03/11/2015 13:32:21,Logout(Super Admin),By-Super Admin
+04/11/2015 05:25:47,Login(Super Admin),By-Super Admin
+04/11/2015 05:25:58,Active(ajeet10lodhi@gmail.com),By-Super Admin
+04/11/2015 05:26:04,Active(sainimona28@gmail.com),By-Super Admin
+04/11/2015 05:26:09,Active(ajeet01lodhi@yahoo.com),By-Super Admin
+04/11/2015 05:39:18,Image. Deactive . (OTT SERVICES 3.JPG),By-Super Admin
+04/11/2015 05:39:27,Image. Active . (OTT SERVICES 3.JPG),By-Super Admin
+04/11/2015 05:40:51,Image Deactive (OTT SERVICES 3.JPG),By-Super Admin
+04/11/2015 05:40:59,Image Active (OTT SERVICES 3.JPG),By-Super Admin
+04/11/2015 05:42:32,Title Deactive (Movie Reviews),By-Super Admin
+04/11/2015 05:42:38,Title Active (Movie Reviews),By-Super Admin
+04/11/2015 05:43:21,Logout(Super Admin),By-Super Admin
+04/11/2015 05:45:39,Login(Ajeet Lodhi),By-Ajeet Lodhi
+04/11/2015 05:49:56,Login(Super Admin),By-Super Admin
+04/11/2015 05:51:31,Login(Mona),By-Mona
+04/11/2015 05:52:22,footer.Deactive(http://www.esselshyam.net),By-Mona
+04/11/2015 05:52:29,footer.Active(http://www.esselshyam.net),By-Mona
+04/11/2015 05:52:44,Title Deactive (Bollywood Gupshup),By-Mona
+04/11/2015 05:52:51,Title Active (Bollywood Gupshup),By-Mona
+04/11/2015 05:53:02,Title Deactive (Hollywood News),By-Mona
+04/11/2015 05:53:14,Title Active (Hollywood News),By-Mona
+04/11/2015 05:54:13,Logout(Ajeet Lodhi),By-Ajeet Lodhi
+04/11/2015 05:54:43,footer Deactive(http://www.esselshyam.net),By-Super Admin
+04/11/2015 05:54:48,footer Active(http://www.esselshyam.net),By-Super Admin
+04/11/2015 06:00:44,Insert footer(http://ott.esselshyam.net),By-Super Admin
+04/11/2015 06:00:52,footer Active(http://ott.esselshyam.net),By-Super Admin
+04/11/2015 06:00:57,footer Deactive(http://ott.esselshyam.net),By-Super Admin
+04/11/2015 06:01:04,footer Active(http://ott.esselshyam.net),By-Super Admin
+04/11/2015 06:01:19,Edit footer(http://ott.esselshyam.net),By-Super Admin
+04/11/2015 06:06:32,Logout(Super Admin),By-Super Admin
+04/11/2015 06:06:52,Login(Ajeet Lodhi),By-Ajeet Lodhi
+04/11/2015 06:13:01,Logout(Ajeet Lodhi),By-Ajeet Lodhi
+04/11/2015 06:17:51,Login(Ajeet Lodhi),By-Ajeet Lodhi
+04/11/2015 06:40:00,deactive(jackson.v.michael@gmail.com),By-Ajeet Lodhi
+04/11/2015 06:40:06,Active(jackson.v.michael@gmail.com),By-Ajeet Lodhi
+04/11/2015 06:40:09,deactive(jackson.v.michael@gmail.com),By-Ajeet Lodhi
+04/11/2015 06:48:43,Active(Ajj@gmail.com),By-Ajeet Lodhi
+04/11/2015 06:48:48,Active(jackson.v.michael@gmail.com),By-Ajeet Lodhi
+04/11/2015 06:49:08,Update(Ajj@gmail.com),By-Ajeet Lodhi
+04/11/2015 06:49:15,deactive(Ajj@gmail.com),By-Ajeet Lodhi
+04/11/2015 06:49:19,Active(Ajj@gmail.com),By-Ajeet Lodhi
+04/11/2015 06:49:27,deactive(Ajj@gmail.com),By-Ajeet Lodhi
+04/11/2015 06:49:33,Delete(Ajj@gmail.com),By-Ajeet Lodhi
+04/11/2015 07:03:28,Upload image(14.jpg),By-Ajeet Lodhi
+04/11/2015 07:03:35,Image Active (14.jpg),By-Ajeet Lodhi
+04/11/2015 07:03:42,Image Deactive (14.jpg),By-Ajeet Lodhi
+04/11/2015 07:03:49,Image Active (14.jpg),By-Ajeet Lodhi
+04/11/2015 07:03:56,Image Deactive (14.jpg),By-Ajeet Lodhi
+04/11/2015 07:04:04,Delete Image(14.jpg),By-Ajeet Lodhi
+04/11/2015 07:04:19,footer Deactive(http://ott.esselshyam.net),By-Ajeet Lodhi
+04/11/2015 07:04:25,footer Active(http://ott.esselshyam.net),By-Ajeet Lodhi
+04/11/2015 07:04:37,footer Deactive(http://ott.esselshyam.net),By-Ajeet Lodhi
+04/11/2015 07:04:51,Edit footer(http://ott.esselshyam.net),By-Ajeet Lodhi
+04/11/2015 07:09:17,Logout(Ajeet Lodhi),By-Ajeet Lodhi
+04/11/2015 07:09:21,Login(Super Admin),By-Super Admin
+04/11/2015 07:14:05,display setting (Deactive),By-Super Admin
+04/11/2015 07:14:10,display setting (Active),By-Super Admin
+04/11/2015 07:14:15,display setting (Deactive),By-Super Admin
+04/11/2015 07:15:35,Delete Footer(http://ott.esselshyam.net),By-Super Admin
+04/11/2015 07:19:40,display setting (Active),By-Super Admin
+04/11/2015 07:19:45,display setting (Deactive),By-Super Admin
+04/11/2015 07:20:01,Edit (#5e0505),By-Super Admin
+04/11/2015 07:20:07,Display Delete (#5e0505),By-Super Admin
+04/11/2015 08:02:54,Active(mona@esselshyam.net),By-Super Admin
+04/11/2015 08:02:58,deactive(mona@esselshyam.net),By-Super Admin
+04/11/2015 08:03:56,Update(mona@esselshyam.net),By-Super Admin
+04/11/2015 08:04:04,Active(mona@esselshyam.net),By-Super Admin
+04/11/2015 08:04:07,deactive(mona@esselshyam.net),By-Super Admin
+04/11/2015 08:12:47,Login(Mona),By-Mona
+04/11/2015 08:13:01,Active(mona@esselshyam.net),By-Mona
+04/11/2015 09:54:50,Logout(Super Admin),By-Super Admin
+04/11/2015 09:57:45,Login(Ajeet Lodhi),By-Ajeet Lodhi
+04/11/2015 09:57:53,deactive(mona@esselshyam.net),By-Ajeet Lodhi
+04/11/2015 09:57:58,Active(mona@esselshyam.net),By-Ajeet Lodhi
+04/11/2015 09:58:36,deactive(sainimona28@gmail.com),By-Ajeet Lodhi
+04/11/2015 09:58:43,Active(sainimona28@gmail.com),By-Ajeet Lodhi
+04/11/2015 10:03:14,Image Deactive(OTT SERVICES 3.JPG),By-Mona
+04/11/2015 10:03:23,Image Active(OTT SERVICES 3.JPG),By-Mona
+04/11/2015 12:08:54,display setting (Active),By-Mona
+04/11/2015 12:09:00,display setting (Deactive),By-Mona
+04/11/2015 12:09:07,Display Delete (#0b127a),By-Mona
+04/11/2015 12:12:15,display Insert color (#ff6161),By-Ajeet Lodhi
+04/11/2015 12:12:24,display setting (Active),By-Ajeet Lodhi
+04/11/2015 12:13:09,display setting (Deactive),By-Mona
+04/11/2015 12:16:30,display setting Active (),By-Mona
+04/11/2015 12:17:56,display setting Deactive (),By-Mona
+05/11/2015 05:30:34,Login(Ajeet Lodhi),By-Ajeet Lodhi
+05/11/2015 07:49:22,Login(Mona),By-Mona
+05/11/2015 07:49:44,deactive(mona@esselshyam.net),By-Mona
+05/11/2015 07:49:50,Active(mona@esselshyam.net),By-Mona
+05/11/2015 07:50:02,deactive(test@esselshyam.net),By-Mona
+05/11/2015 07:50:08,Active(test@esselshyam.net),By-Mona
+05/11/2015 07:51:59,Active(smith01@gnail.com),By-Mona
+05/11/2015 07:52:03,deactive(smith01@gnail.com),By-Mona
+05/11/2015 07:52:22,Update(smith01@gnail.com),By-Mona
+05/11/2015 07:52:32,Active(smith01@gnail.com),By-Mona
+05/11/2015 07:52:44,Update(smith01@gnail.com),By-Mona
+05/11/2015 07:52:53,deactive(smith01@gnail.com),By-Mona
+05/11/2015 07:52:59,Delete(smith01@gnail.com),By-Mona
+05/11/2015 07:53:30,Add Title(arjeetsingh),By-Mona
+05/11/2015 07:53:37,Title Active (arjeetsingh),By-Mona
+05/11/2015 07:54:06,Edit Title(arjeetsingh),By-Mona
+05/11/2015 07:54:19,Title Deactive (arjeetsingh),By-Mona
+05/11/2015 07:54:25,Delete Tilte(arjeetsingh),By-Mona
+05/11/2015 07:54:35,Title Deactive (Movie Reviews),By-Mona
+05/11/2015 07:54:40,Title Active (Movie Reviews),By-Mona
+05/11/2015 07:55:01,Upload image(11.jpg),By-Mona
+05/11/2015 07:55:13,Image Deactive(OTT SERVICES 2.JPG),By-Mona
+05/11/2015 07:55:21,Image Active(OTT SERVICES 2.JPG),By-Mona
+05/11/2015 08:01:42,Image Active(11.jpg),By-Mona
+05/11/2015 08:01:52,Image Deactive(11.jpg),By-Mona
+05/11/2015 08:02:03,Delete Image(11.jpg),By-Mona
+06/11/2015 05:35:30,Login(Super Admin),By-Super Admin
+06/11/2015 05:51:23,display setting Active (5),By-Super Admin
+06/11/2015 05:58:36,display setting Deactive (5),By-Super Admin
+06/11/2015 06:01:07,Login(Ajeet Lodhi),By-Ajeet Lodhi
+06/11/2015 06:01:15,Title Deactive (Funny Gags),By-Ajeet Lodhi
+06/11/2015 06:25:47,Logout(Ajeet Lodhi),By-Ajeet Lodhi
+06/11/2015 06:26:05,Login(Super Admin),By-Super Admin
+06/11/2015 06:26:52,Logout(Super Admin),By-Super Admin
+06/11/2015 06:30:15,Login(Super Admin),By-Super Admin
+06/11/2015 07:47:46,Logout(Super Admin),By-Super Admin
+06/11/2015 07:48:05,Login(Super Admin),By-Super Admin
+06/11/2015 07:48:20,Logout(Super Admin),By-Super Admin
+06/11/2015 07:48:43,Login(Ajeet Lodhi),By-Ajeet Lodhi
+06/11/2015 07:48:55,Logout(Ajeet Lodhi),By-Ajeet Lodhi
+06/11/2015 07:52:59,Login(Super Admin),By-Super Admin
+06/11/2015 07:53:11,Logout(Super Admin),By-Super Admin
+06/11/2015 07:53:31,Login(Mona),By-Mona
+06/11/2015 07:56:01,Logout(Mona),By-Mona
+06/11/2015 07:56:17,Login(Super Admin),By-Super Admin
+06/11/2015 08:15:02,Logout(Super Admin),By-Super Admin
+06/11/2015 08:15:17,Login(Super Admin),By-Super Admin
+06/11/2015 08:15:45,Logout(Super Admin),By-Super Admin
+06/11/2015 08:16:08,Login(Ajeet Lodhi),By-Ajeet Lodhi
+06/11/2015 08:19:03,Logout(Ajeet Lodhi),By-Ajeet Lodhi
+06/11/2015 08:19:49,Login(Super Admin),By-Super Admin
+06/11/2015 21:54:29,Logout(Super Admin),By-Super Admin
+06/11/2015 21:54:43,Login(Super Admin),By-Super Admin
